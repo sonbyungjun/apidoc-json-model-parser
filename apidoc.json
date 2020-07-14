@@ -1,0 +1,63 @@
+{
+  "status": 200,
+  "result": true,
+  "message": "success",
+  "data": {
+    "tel": "01094559808",
+    "id": 2,
+    "loginId": "test1234@naver.com",
+    "name": "손병준",
+    "isTelStatus": true,
+    "role": "전문가",
+    "isMarketing": true,
+    "image": "https://d15pjpuz6i9vht.cloudfront.net/user/profile/8902811c-04d5-42e9-b198-7b9c7e4417fa.jpg",
+    "expert": {
+      "id": 5,
+      "name": "닉네임",
+      "tel": "전화번호",
+      "address": "주소",
+      "addressDetail": "상세주소",
+      "isTelStatus": true,
+      "introduction": "자기소개",
+      "diff": "전문가",
+      "isTax": true,
+      "technologies": [
+        {
+          "id": 1,
+          "name": "교육/과외",
+          "depth": "1"
+        }
+      ],
+      "careers": [
+        {
+          "id": 3,
+          "name": "회사명",
+          "department": "근무부서",
+          "position": "직위",
+          "period": "근무부서"
+        }
+      ],
+      "educations": [
+        {
+          "id": 3,
+          "name": "학교명",
+          "major": "전공",
+          "diff": "구분"
+        }
+      ],
+      "sns": [
+        {
+          "id": 1,
+          "url": "웹주소",
+          "diff": "구분"
+        }
+      ],
+      "licenses": [
+        {
+          "id": 3,
+          "name": "자격증명"
+        }
+      ]
+    }
+  }
+}
